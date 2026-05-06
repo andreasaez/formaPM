@@ -32,8 +32,8 @@ Create the project from the problem-guide-project.md file
     
 
 <aside>
-💡
-
-Be sure to always use the same project so it learns from the ongoing context you’re providing it.
+💡 Be sure to always use the same project so it learns from the ongoing context you’re providing it.
 
 </aside>
+
+You can get Forma PM directly on: dreasaez.gumroad.com/l/enwoc
